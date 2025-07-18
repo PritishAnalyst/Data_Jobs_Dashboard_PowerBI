@@ -1,19 +1,20 @@
-#  Data Job Market Intelligence Dashboard 
+<h1 align="center">Data Job Market Intelligence Dashboard</h1>
 
 > Helping freshers and aspiring data professionals make smarter career decisions using real-world job data.
 
 🎯 **Use Case:** Designed for students, career switchers, and job seekers new to data science—this dashboard answers the question:  
 “What should I learn and which path pays off the most?”
 <p align="center">
-  <img src="Dashboard 1 gif.gif" width="49%" />
-  <img src="Dashboard 2 gif.gif" width="49%" />
+  <img src="assets\Dashboard 1 gif.gif" width="49%" />
+  <img src="assets\Dashboard 2 gif.gif" width="49%" />
 </p>
 🗂️ **Dashboard File:** [Download Power BI File](/Data_Jobs_Dashboard_PowerBI.pbix) 
 
 
 ---
 
-## ❓ What Problems Does This Dashboard Solve?
+<h2 align="center"> 💡 What Problems Does This Dashboard Solve?</h2>
+
 
 This dashboard was created to solve real struggles faced by **freshers and beginners in the data field**, such as:
 
@@ -35,7 +36,8 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 
 ---
 
-## 🔧 Data Process & Workflow
+<h2 align="center">🔧 Data Process & Workflow</h2>
+
 
 ### 1. Data Preparation & ETL (Power Query)
 - Imported real-world data on data-related job postings (titles, skills, salaries, regions, platforms, etc.)
@@ -67,7 +69,8 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 
 ---
 
-##  -Dashboard Pages Summary-
+<h2 align="center">💡 Dashboard Pages Summary</h2>
+
 
 ### 📌 Page 1: Data Jobs Dashboard 
 
@@ -123,7 +126,7 @@ This **contextual deep-dive page** gets triggered when a user selects a specific
 
 ---
 
-## 💡 Why It Matters 
+## <h2 align="center">💡 Why It Matters ? </h2>
 
 Many freshers are overwhelmed when entering the data world—they don’t know which skills matter, what roles pay well, or where to start.  
 This dashboard acts as a **career compass**, helping them plan smartly based on **real-world job data**.
