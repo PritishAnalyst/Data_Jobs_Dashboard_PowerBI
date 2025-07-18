@@ -74,6 +74,7 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 
 ### 📌 Page 1: Data Jobs Dashboard 
 
+![Dashboard Preview](/assets/Power%20bi%20dashboard%201.png)
 
 
 **Key Highlights:**
@@ -90,6 +91,8 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 ---
 
 ### 📌 Page 2: Job Title Drill Through
+
+![Dashboard Preview](/assets/Job%20drill%20through%20dashboard.png)
 
 This **contextual deep-dive page** gets triggered when a user selects a specific job title on Page 1.
 
@@ -108,6 +111,7 @@ This **contextual deep-dive page** gets triggered when a user selects a specific
 
 ### 📌 Page 3: Data Jobs Dashboard 2.0 
 
+![Dashboard Preview](/assets/Power%20bi%20dashboard%202.png)
 
 **Key Highlights:**
 - **KPI Cards** for Total Job Count, Average Skills per Job, Median Salaries
