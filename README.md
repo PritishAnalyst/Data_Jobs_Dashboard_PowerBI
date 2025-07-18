@@ -4,7 +4,10 @@
 
 🎯 **Use Case:** Designed for students, career switchers, and job seekers new to data science—this dashboard answers the question:  
 “What should I learn and which path pays off the most?”
-
+<p align="center">
+  <img src="Dashboard 1 gif.gif" width="49%" />
+  <img src="Dashboard 2 gif.gif" width="49%" />
+</p>
 🗂️ **Dashboard File:** [Download Power BI File](/Data_Jobs_Dashboard_PowerBI.pbix) 
 
 
