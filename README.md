@@ -49,11 +49,27 @@ This dashboard was created to solve real struggles faced by **freshers and begin
   - **Date Table** to support time intelligence (YTD trends, filters)
 - Used **custom columns** and **conditional columns** to derive meaningful categories
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<!-- Text Section -->
+<div style="flex: 1;">
+
 ### 2. Data Modeling (Power BI Data View)
+
 - Designed a **star schema** with relationships between:
-  - A central **Fact Table** (job postings)
-  - Dimension tables (skills, dates, schedule type, platforms, companies)
+  - A central **Fact Table** (job postings)  
+  - **Dimension tables** (skills, dates, schedule type, platforms, companies)
 - Enforced referential integrity and optimized one-to-many relationships
+
+</div>
+
+<!-- Image Section -->
+<div style="flex: 1;">
+  <img src="assets\Screenshot 2025-07-19 115549.png" alt="Data Modeling Image" width="100%">
+</div>
+
+</div>
+
 
 ### 3. DAX & Measures
 - Created a centralized **Measures Table** to maintain all calculated metrics
